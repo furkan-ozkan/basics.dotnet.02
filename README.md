@@ -13,4 +13,4 @@
 -  Register/Login - JWT Token
 
 ## Swagger
-![](https://raw.githubusercontent.com/furkan-ozkan/basics.dotnet/main/ReadmeImages/nuget.png)
+![](https://raw.githubusercontent.com/furkan-ozkan/basics.dotnet.02/main/swagger.png)
